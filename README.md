@@ -1,4 +1,4 @@
-# Detection Demo for MIT-Hackaton
+# Digits Recognition Demo for MIT-Hackaton
 
 Step 1. Start inference server on a machine which `nvidia-docker` is correctly configured.
 
