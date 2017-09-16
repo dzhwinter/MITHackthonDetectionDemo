@@ -1,4 +1,4 @@
-# Digits Recognition Demo for MIT-Hackaton
+# Digits Recognition Demo for MIT-Hackathon
 
 Step 1. Start inference server on a machine which `nvidia-docker` is correctly configured.
 
@@ -12,8 +12,5 @@ Step 2. Run `main.py` to detect objects of `test.jpg`.
 python main.py
 ```
 
-Step 3. Check the `result.jpg`
-
-```bash
-open result.jpg
-``` 
+Step 3. Check the result
+The result will print out in the Terminal
